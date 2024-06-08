@@ -2,7 +2,7 @@
   <h1 style="color:#8a2be2;">📊 Financial-Statistics-and-Revenue-Insights-Dashboard</h1>
 </div>
 ## 🚀 Overview
-This project provides a comprehensive analysis of income sources and financial metrics through an interactive and visually appealing dashboard. The dashboard presents a detailed breakdown of various revenue streams, operating profits, and key financial statistics, offering valuable insights for decision-making.
+This project provides a comprehensive analysis of income sources and financial metrics through an dynamic, interactive and visually appealing dashboard. This dashboard presents a detailed breakdown of various revenue streams, operating profits, and key financial statistics. And each metric will change depends up on the analysis that user performs and thus offers valuable insights for decision-making.
 
 ## 📈 Dashboard Preview
 <div align="center">
@@ -42,8 +42,7 @@ Keep track of important KPIs such as the average monthly income (₹69,079) and 
 Use these KPIs to make informed decisions and set future targets.
 
 - Analyze Quantity of Items:
-Review the quantity of items across different categories, such as Usage Fees (27,828), Subscription (21,245), Renting (50,849), etc.
-Investigate how these quantities correlate with the revenue generated.
+Review the quantity of items across different categories, such as Usage Fees (27,828), Subscription (21,245), Renting (50,849), etc. will help in understand how each quantity correlates with the revenue generated.
 
 - Monthly Income Analysis:
 Analyze the income for each month and identify any seasonal trends or patterns.
