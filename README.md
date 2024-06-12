@@ -2,11 +2,12 @@
   <h1 style="color:#8a2be2;">📊 Financial-Statistics-and-Revenue-Insights-Dashboard</h1>
 </div>
 ## 🚀 Overview
-This project provides a comprehensive analysis of income sources and financial metrics through an dynamic, interactive and visually appealing dashboard. This dashboard presents a detailed breakdown of various revenue streams, operating profits, and key financial statistics. And each metric will change depends up on the analysis that user performs and thus offers valuable insights for decision-making.
+This project provides a comprehensive analysis of income sources and financial metrics through an dynamic, interactive and visually appealing dashboard. This dashboard presents a detailed breakdown of various revenue streams, operating profits, geographical income distribution and key financial statistics. And each metric will change depends up on the analysis that user performs and thus offers valuable insights for decision-making.
 
 ## 📈 Dashboard Preview
 <div align="center">
-  <img src="https://github.com/YuvaKrishnaThanneru/Financial-Statistics-and-Revenue-Insights-Dashboard/assets/171606388/e09e9857-54ce-4f99-94c0-9e8a2b764fe1">
+  <img src="https://github.com/YuvaKrishnaThanneru/Financial-Statistics-and-Revenue-Insights-Dashboard/assets/171606388/e09e9857-54ce-4f99-94c0-9e8a2b764fe1"width="360">
+  <img src="https://github.com/YuvaKrishnaThanneru/Financial-Statistics-and-Revenue-Insights-Dashboard/assets/171606388/87c6aead-cc54-4a52-ac76-697ddee1bb36"width="360">
 </div>
 
 ## 🛠️ Features
